@@ -1,3 +1,6 @@
+This Line is added in branch_1
+
+
 # Linux Mini Project  [![][autotest_badge]][autotest_workflow]
 
 ## Project Goals
